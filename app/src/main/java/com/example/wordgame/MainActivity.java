@@ -23,10 +23,12 @@ public class MainActivity extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
+
+        //retrieves word from txt file
         WordRetrieve retriever =  new WordRetrieve(this);
         retriever.setWord();
         correctWord = retriever.getWord();
-
+        //Sets text to be shown
         TextView correctText = findViewById(R.id.correctWord);
         correctText.setText(correctWord);
     }
