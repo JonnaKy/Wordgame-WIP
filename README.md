@@ -6,5 +6,5 @@ Current features:
 Representing text
 
 WIP:
-UI
+UI,
 Back end of the guessing progress.
