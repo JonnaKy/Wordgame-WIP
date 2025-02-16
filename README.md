@@ -4,10 +4,13 @@ The app retrieves words from a local txt-file and the user has to guess the five
 
 Current features:
 Representing text
+Custom keyboard
+Reads the word to be guessed from file
 
 WIP:
 UI,
 Back end of the guessing progress.
 
 
-![UI](https://github.com/user-attachments/assets/83b0057c-da2f-4e10-af35-af4028622320)
+![UI](https://github.com/user-attachments/assets/11811a9b-c66b-4f2e-a2cb-cdce82d70000)
+
