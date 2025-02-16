@@ -3,8 +3,8 @@ Created with android studio.
 The app retrieves words from a local txt-file and the user has to guess the five letter word.
 
 Current features:
-Representing text
-Custom keyboard
+Representing text, 
+Custom keyboard, 
 Reads the word to be guessed from file
 
 WIP:
